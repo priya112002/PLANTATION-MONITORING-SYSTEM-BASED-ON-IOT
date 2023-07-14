@@ -3,4 +3,4 @@ Using an automated Plantation Monitoring system based on IOT reduces the farmers
 
 Plantation monitoring system model was created in proteus and has been implemented using hardware system.
 **Componenets used**: NodeMCU, Soil Moisture Sensor, DHT 11, Relay, 5V DC Water Pump, 9V Battery, Jumper Wires
-**Application used**: Blynk APP
+**Application used**: Blynk APP, Arudion IDE
